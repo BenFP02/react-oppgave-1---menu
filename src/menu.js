@@ -1,0 +1,73 @@
+const menu = [
+  {
+    id: 1,
+    title: "Spaghetti Bolognese",
+    price: "159 NOK",
+    ingredients: "Spaghetti, meat sauce, parmesan",
+    category: "Main Course",
+  },
+  {
+    id: 2,
+    title: "Creamy Chicken Soup",
+    price: "129 NOK",
+    ingredients: "Chicken, cream, carrots, celery",
+    category: "Starter",
+  },
+  {
+    id: 3,
+    title: "Margherita Pizza",
+    price: "169 NOK",
+    ingredients: "Tomato sauce, mozzarella, basil",
+    category: "Main Course",
+  },
+  {
+    id: 4,
+    title: "Sushi Mix",
+    price: "229 NOK",
+    ingredients: "Salmon, tuna, shrimp, rice",
+    category: "Main Course",
+  },
+  {
+    id: 5,
+    title: "Caesar Salad",
+    price: "139 NOK",
+    ingredients: "Romaine lettuce, chicken, bacon, parmesan, dressing",
+    category: "Starter",
+  },
+  {
+    id: 6,
+    title: "Brownie & Ice Cream",
+    price: "89 NOK",
+    ingredients: "Brownie, vanilla ice cream, chocolate sauce",
+    category: "Dessert",
+  },
+  {
+    id: 7,
+    title: "Plate of Taco",
+    price: "199 NOK",
+    ingredients: "Minced meat, corn, cheese, guacamole",
+    category: "Main Course",
+  },
+  {
+    id: 8,
+    title: "Pancakes & Jam",
+    price: "99 NOK",
+    ingredients: "Pancakes, strawberry jam, sugar",
+    category: "Dessert",
+  },
+  {
+    id: 9,
+    title: "Shrimp & Lemon",
+    price: "149 NOK",
+    ingredients: "Shrimp, lemon, dill, bread",
+    category: "Starter",
+  },
+  {
+    id: 10,
+    title: "Entrecôte with Vegetables",
+    price: "289 NOK",
+    ingredients: "Entrecôte, asparagus, potatoes, pepper sauce",
+    category: "Main Course",
+  },
+];
+export default menu;
